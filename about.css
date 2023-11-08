@@ -17,11 +17,11 @@ a {
       color:#c0a97a;
   }
 header {
-    text-align: center;
-    font-size: 24px;
-    font-family: 'Vollkorn', serif;
-    text-transform: uppercase;
-	border-radius: 1000px;
+	text-align: center;
+	font-size: 24px;
+	font-family: 'Vollkorn', serif;
+    	text-transform: uppercase;
+    	border-radius: 1000px;
 	padding: 10px 10px 10px 10px;
 	background-color: rgb(255, 255, 255);
 
@@ -44,4 +44,8 @@ header {
 
 li{ 
 font-family: Georgia, serif;   
+}
+
+.about-title{
+	text-decoration: underline;
 }
